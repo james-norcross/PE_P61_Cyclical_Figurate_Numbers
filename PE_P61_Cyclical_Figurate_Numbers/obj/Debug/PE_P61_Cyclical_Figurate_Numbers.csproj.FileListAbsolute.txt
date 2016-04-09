@@ -1,0 +1,6 @@
+C:\Users\user\Google Drive\Project Euler\PE_P61_Cyclical_Figurate_Numbers\PE_P61_Cyclical_Figurate_Numbers\bin\Debug\PE_P61_Cyclical_Figurate_Numbers.exe.config
+C:\Users\user\Google Drive\Project Euler\PE_P61_Cyclical_Figurate_Numbers\PE_P61_Cyclical_Figurate_Numbers\bin\Debug\PE_P61_Cyclical_Figurate_Numbers.exe
+C:\Users\user\Google Drive\Project Euler\PE_P61_Cyclical_Figurate_Numbers\PE_P61_Cyclical_Figurate_Numbers\bin\Debug\PE_P61_Cyclical_Figurate_Numbers.pdb
+C:\Users\user\Google Drive\Project Euler\PE_P61_Cyclical_Figurate_Numbers\PE_P61_Cyclical_Figurate_Numbers\obj\Debug\PE_P61_Cyclical_Figurate_Numbers.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Drive\Project Euler\PE_P61_Cyclical_Figurate_Numbers\PE_P61_Cyclical_Figurate_Numbers\obj\Debug\PE_P61_Cyclical_Figurate_Numbers.exe
+C:\Users\user\Google Drive\Project Euler\PE_P61_Cyclical_Figurate_Numbers\PE_P61_Cyclical_Figurate_Numbers\obj\Debug\PE_P61_Cyclical_Figurate_Numbers.pdb
